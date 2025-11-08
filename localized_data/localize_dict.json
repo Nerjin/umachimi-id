@@ -650,7 +650,6 @@
     "Home424022": "Kamu ga bisa Kudahsyat Lagu ini",
     "Home424023": "Kamu sudah Kudahsyat Lagu ini.",
     "Home483001": "Lagu tidak bisa dilihat.",
-    "Honor0001": "Titles",
     "Honor0004": "Achievements",
     "Jikkyo0002": "#{0} ",
     "Jikkyo0005": "{0}L",
@@ -2628,7 +2627,7 @@
     "FanRaid400107": "Status pencapaian penghargaan secara keseluruhan",
     "FanRaid400108": "<color=#ff911c>Hadiah keseluruhan yang dicapai</color>",
     "Home0035": "OSIS",
-    "Home400101": "List Lagu\n",
+    "Home400101": "List Lagu",
     "Live0007": "Lirik :",
     "Live0008": "Komposer :",
     "Live0013": "Lirik",
@@ -4059,5 +4058,6 @@
     "SingleModeScenarioOnsen194064": "Silakan pilih sumber untuk digali",
     "SingleModeScenarioOnsen194034": "<size=35>Daftar Mata Air</size>",
     "SingleModeScenarioOnsen194030": "<size=35>Daftar Galian</size>",
-    "Present0037": "Diklaim"
+    "Present0037": "Diklaim",
+    "Honor0001": "Title"
 }
