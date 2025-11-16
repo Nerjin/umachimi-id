@@ -6681,11 +6681,21 @@
     "9045": "Sugar Lights",
     "9046": "Saint Lite",
     "9047": "Speed Symboli",
-    "9048": "Haiseiko"
+    "9048": "Haiseiko",
+        "1118": "Admire Groove",
+        "1126": "Sakura Chitose O",
+        "1135": "Stay Gold",
+        "9049": "Tucker Bryan",
+        "9050": "Kenko Hoshina",
+        "9051": "Yunohana Bloom"
   },
   "171": {
     "12": "Login Bonus",
-    "13": "Login Bonus"
+    "13": "Login Bonus",
+        "10": "Screen Judul",
+        "11": "Saat Game Dimulai",
+        "101": "Login Di Pagi Hari",
+        "102": "Login Siang Hari"
   },
   "172": {
     "1000101": "Meningkat Power.\\nDapat [Winter Girl ○] skill hint.",
@@ -8619,7 +8629,13 @@
     "5002103": "Dapat [Winter Girl ○] skill hint.",
     "501": "Meningkat Wit and Wit Cap.",
     "502": "Meningkat Wit and Wit Cap.",
-    "503": "Meningkat Wit and Wit Cap."
+    "503": "Meningkat Wit and Wit Cap.",
+        "2035401": "Faktor ini memberimu skill 「足任せ」",
+        "2035402": "Faktor ini memberimu skill 「足任せ」",
+        "2035403": "Faktor ini memberimu skill 「足任せ」",
+        "2035501": "Faktor ini memberikan hint skill \"Step Up\"",
+        "2035502": "Faktor ini memberikan hint skill \"Step Up\"",
+        "2035503": "Faktor ini memberikan hint skill \"Step Up\""
   },
   "173": {
     "9001": "Secretary to the Director",
