@@ -1175,7 +1175,6 @@
   "Heroes511141": "$(ordinal {0})～$(ordinal {1})",
   "Heroes511145": "sisa {0:D2}:{1:D2}:{2:D2}",
   "Heroes511159": "・Once SILVER 1 is reached, the Hero Gauge\n　will be maxed out automatically.",
-  "Home0001": "Claimed",
   "Home0002": "Kedaluwarsa",
   "Home0004": "Batas waktu telah berakhir",
   "Home0005": "<color=#ff911c>kamu telah mencapai batas kepemilikan</color>\nBeberapa barang telah dikirim sebagai hadiah.",
@@ -1190,7 +1189,7 @@
   "Home0021": "Potensi",
   "Home0023": "$(nb)Upgrade",
   "Home0024": "LB",
-  "Home0026": "$(scale 90)Gudang",
+  "Home0026": "$(scale 70)Gudang",
   "Home0028": "$(nb)Tim",
   "Home0029": "RANKED TEAM",
   "Home0030": "$(nb)Kembali",
@@ -2776,7 +2775,7 @@
   "SingleMode0250": "Tempat Latihan Sepi Oy !....",
   "SingleMode0251": "$(nb)Lanjut Progress",
   "SingleMode0252": "$(nb)Tantangan Berhasil",
-  "SingleMode0253": "Senior C. : Free Latihan s/d Desember",
+  "SingleMode0253": "Senior C. Free Latihan s/d Desember",
   "SingleMode0254": "Final",
   "SingleMode0255": "Ga Ada",
   "SingleMode0256": "Konfirmasi Liburan",
@@ -2799,7 +2798,7 @@
   "SingleMode0275": "5th Juara：{0:#,0} fans",
   "SingleMode0276": "$(plural {0} '$ fan' '$ fans') Atau Lebih",
   "SingleMode0277": "Reservasi Race selesai",
-  "SingleMode0278": "Balapan DI Reservasi",
+  "SingleMode0278": "Balapan Di Reservasi",
   "SingleMode0279": "Perubahan reservasi",
   "SingleMode0280": "Kamu punya reservasi sebelumnya. ingin ganti?",
   "SingleMode0281": "Batal Reservasi",
@@ -4870,5 +4869,6 @@
     "Shop0067": "<color=#ff911c>Untuk pengguna dibawah umur</color>\n\nPastikan kamu sudah mendapatkan izin dari orang tua/wali sebelum melakukan pembelian.\nApakah kamu sudah mendapatkan izin dari mereka?\n\n<color=#ff911c>Jika kamu tidak paham teks ini, tunjukkan kepada orang tua/wali kamu</color>",
     "Shop0069": "<color=#ff911c>Tentang izin dari orang tua atau wali</color>\n\nSaat membeli Carat, pastikan kamu sudah mendapatkan izin dari orang tua/wali.\n\n<color=#ff911c>Jika kamu tidak paham teks ini, tunjukkan kepada orang tua/wali kamu</color>",
     "Shop0071": "Tampilan ini dapat diubah melalui pengaturan「Peringatan Pembelian」",
-    "Steam608002": "Tunggu pembaruan selanjutnya"
+    "Steam608002": "Tunggu pembaruan selanjutnya",
+    "Home0001": "Diklaim"
 }
