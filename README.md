@@ -68,7 +68,3 @@ Baca panduan di [CONTRIBUTING.md](./CONTRIBUTING.md)
 @Xmatography
 @Vin..Tar
 @MisuMasu
-
-## 📜 Lisensi
-Repo ini menggunakan lisensi **MIT** 📄  
-Silakan gunakan dan modifikasi sesuai kebutuhan.  
